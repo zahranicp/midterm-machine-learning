@@ -1,2 +1,2 @@
 # midterm-machine-learning
-Ujuan Tengah Semester Machine Learning
+Ujian Tengah Semester Machine Learning
