@@ -1,5 +1,3 @@
-# ✅ **README.md (Versi Paling Rapi & Profesional untuk GitHub)**
-
 ```md
 # 📊 Midterm Machine Learning — Customer Clustering  
 UTS Machine Learning • Telkom University  
